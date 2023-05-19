@@ -1,2 +1,5 @@
-# belajar_github_wave9
-Just testing using github
+# Belajar Github dan Flask
+
+Just testing using github by doing
+
+Belajar git commit
